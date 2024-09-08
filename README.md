@@ -55,7 +55,13 @@ Please follow these steps for any contributions:
 
 ## Team Members
 - **Name**: Mateusz Obrochta  
-- **Email**: mateuszobrochta@lewisu.edu 
+- **Email**: mateuszobrochta@lewisu.edu
+
+- **Name**: Member 2 
+- **Email**: @lewisu.edu
+
+- **Name**: Member 3
+- **Email**: @lewisu.edu 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
