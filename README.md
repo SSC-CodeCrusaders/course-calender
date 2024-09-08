@@ -66,12 +66,16 @@ Please follow these steps for any contributions:
 
 - **Name**: Mateusz Obrochta
 - **Email**: mateuszobrochta@lewisu.edu
+- **Github**:
 
 - **Name**: Matthew Bilinski
 - **Email**: matthewrbilinski@lewisu.edu
+- **Github**: Mattbil2003
+
 
 - **Name**: Member 3
 - **Email**: @lewisu.edu
+- **Github**: 
 
 ## License
 
