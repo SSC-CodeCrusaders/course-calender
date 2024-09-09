@@ -13,7 +13,7 @@ Welcome to the **Code Crusaders**! We are a passionate and skilled group of deve
   - **Role**: Product Owner
 
 - **Ivan Sanchez**
-  - **Email**: [ivan@lewisu.edu](mailto:ivan@lewisu.edu)
+  - **Email**: [ivansanchez@lewisu.edu](mailto:ivansanchez@lewisu.edu)
   - **Role**: Developer
 
 ## Our Vision
