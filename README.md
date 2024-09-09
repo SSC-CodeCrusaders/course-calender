@@ -73,9 +73,9 @@ Please follow these steps for any contributions:
 - **Github**: Mattbil2003
 
 
-- **Name**: Member 3
-- **Email**: @lewisu.edu
-- **Github**: 
+- **Name**: Ivan Sanchez
+- **Email**: ivansanchez@lewisu.edu
+- **Github**: isanchez-lewisu
 
 ## License
 
