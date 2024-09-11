@@ -1,8 +1,8 @@
-# ATCxFlightSim
+# Course Calender
 
 ## Description
 
-This repository contains the project for ATCxFlightSim, which integrates an air traffic controller simulator with the school's flight simulator to provide a comprehensive training experience. The product is still experimental, and feasibility studies are ongoing.
+This project allows users to easily organize their course schedules by entering course information such as class times, locations, and instructors. Once the course data is entered, the application can import said data into popular calendar apps like Google Calendar. This ensures that users can keep track of their academic schedule in an efficient and organized manner.
 
 ## Table of Contents
 
