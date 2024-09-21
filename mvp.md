@@ -1,0 +1,7 @@
+# MVP Proposal: Course Calendar
+
+Lewis University is the 7th largest private university in Illinois with 6,600 students, all of which go through the process of enrolling in courses until they graduate. Our Course Calendar project is a tool designed to help students and staff efficiently organize their course schedules by entering course details such as class times, locations, and instructors.
+
+For the start of this project our focus is to have our team, and another user manually import their course information including time, class name, instructor name, and location on our web page. There will be a button to export an .ics file from our web page, then the .ics file will be imported into the users preferred personal calendar app.
+
+With every project, there are future enhancements to come, but we still need additional research. The development of our Course Calendar project will enable students to keep track of their courses up until graduation and will help them start on the right path for their academics at Lewis University. By being able to export information submitted on our web page and importing .ics files without errors this MVP aims to be a great start to our capstone project, all while helping stay organized. Although there is a limited time in this course, addressing future improvements and possible challenges will help this project stay successful for semesters to come.
