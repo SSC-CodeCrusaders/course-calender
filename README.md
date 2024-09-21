@@ -19,11 +19,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/ATCxFlightSim.git
+   git clone https://github.com/[YourUsername]/course-calender.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ATCxFlightSim
+   cd course-calender
    ```
 3. Install dependencies:
    ```bash
