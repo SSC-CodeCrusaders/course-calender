@@ -4,6 +4,8 @@
 
 This project allows users to easily organize their course schedules by entering course information such as class times, locations, and instructors. Once the course data is entered, the application can import said data into popular calendar apps like Google Calendar. This ensures that users can keep track of their academic schedule in an efficient and organized manner.
 
+For more information please view our MVP [here](./MVP.md).
+
 ## Table of Contents
 
 - [Installation](#installation)
